@@ -1,0 +1,1 @@
+This training introduces the Digital Innovations for Water Secure Africa (DIWASA) and shows you how to use the datasets in Digital Innovations for Water Secure Africa (DIWASA) in the Digital Earth Africa Sandbox, and data analysis platform. We will then walk through various exercises that will introduce the Digital Innovations for Water Secure Africa (DIWASA).
